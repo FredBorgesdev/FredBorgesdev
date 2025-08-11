@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Olá, seja Bem Vindo !!!
 
-Me chamo Fredson Borges
+Me chamo Fredson Borges.
 
 Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas, meu foco atualmente está em full stack.
 
