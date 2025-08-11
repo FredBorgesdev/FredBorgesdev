@@ -4,7 +4,6 @@ Me chamo Fredson Borges
 
 Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas, meu foco atualmente está em full stack.
 
-Projetos constantemente inpecionados para clean code e otimizações.
 <div>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredBorgesdev&show_icons=true&theme=tokyonight"/>
