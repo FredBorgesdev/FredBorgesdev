@@ -2,7 +2,7 @@
 
 Me chamo Fredson Borges.
 
-Graduando em Análise e Desenvolvimento de Sistemas - PUC Minas, meu foco atualmente está em Full Stack com Testes.
+Graduando em Análise e Desenvolvimento de Sistemas - PUC Minas, atualmente trabalhando com Desenvolvimento de Tecnologia IoT.
 
 <div>
 <div>
