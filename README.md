@@ -2,7 +2,7 @@
 
 Me chamo Fredson Borges.
 
-Estudante de Análise e Desenvolvimento de Sistemas - PUC Minas, meu foco atualmente está em full stack.
+Graduando em Análise e Desenvolvimento de Sistemas - PUC Minas, meu foco atualmente está em Full Stack com Testes.
 
 <div>
 <div>
