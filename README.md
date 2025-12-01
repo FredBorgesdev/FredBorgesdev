@@ -2,7 +2,7 @@
 
 Me chamo Fredson Borges.
 
-Desenvolvedor de Sistemas, e Graduando em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor de Sistemas, Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div>
 <!-- <div>
