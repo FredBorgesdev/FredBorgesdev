@@ -2,7 +2,7 @@
 
 Me chamo Fredson Borges.
 
-Graduando em Análise e Desenvolvimento de Sistemas - PUC Minas, atualmente trabalhando como Programador de Sistemas.
+Desenvolvedor de Sistemas, e Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div>
 <!-- <div>
