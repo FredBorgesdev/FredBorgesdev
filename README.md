@@ -6,9 +6,9 @@ Desenvolvedor de Sistemas, Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div>
 
-[![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=FredBorgesdev&show_icons=true&theme=tokyonight)](https://github.com/FredBorgesdev)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FredBorgesdev&layout=compact&theme=tokyonight)](https://github.com/FredBorgesdev)
- 
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=radical&layout=compact)
+
 </div>
 <div>
  <img align="center" alt="Fred-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
