@@ -5,10 +5,9 @@ Me chamo Fredson Borges.
 Desenvolvedor de Sistemas, Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredBorgesdev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBorgesdev&layout=compact&theme=tokyonight"/>
-</div>
+
+[![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=FredBorgesdev&show_icons=true&theme=tokyonight)](https://github.com/FredBorgesdev)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FredBorgesdev&layout=compact&theme=tokyonight)](https://github.com/FredBorgesdev)
  
 </div>
 <div>
