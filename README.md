@@ -1,6 +1,6 @@
-Me chamo Fredson Borges.
 
-Desenvolvedor de Sistemas, Graduando em Análise e Desenvolvimento de Sistemas.
+
+Desenvolvedor de Sistemas, Graduando em Análise e Desenvolvimento de Sistemas pela PUC-Minas
 
 <!-- <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
