@@ -2,7 +2,7 @@
 
 Desenvolvedor de Sistemas, Graduando em Análise e Desenvolvimento de Sistemas pela PUC-Minas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fred.borges=anuraghazra&hide=contribs,prs)
+
 
 <!-- <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
