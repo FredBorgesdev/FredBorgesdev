@@ -1,6 +1,6 @@
 
 
-Desenvolvedor de Sistemas, Graduando em Análise e Desenvolvimento de Sistemas pela PUC-Minas
+Desenvolvedor de Sistemas.
 
 
 
