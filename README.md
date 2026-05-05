@@ -1,6 +1,6 @@
 
 
-Full Stack Developer at Gertran Risk Management | Cargo Tracking
+
 
 
 
